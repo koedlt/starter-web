@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 Nog een beke text. voor rebasing hehe
 
+Nog een meer changes from myFeature branch 
+
 ## Introduction
 
 Deze is ninermol mijwin
