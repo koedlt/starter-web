@@ -18,6 +18,8 @@ Noch ein bisschen tekst hoohohohoho
 
 en voilakes
 
+Please fork this en nog een beke
+
 ### Copyright
 
 hehe was nog ni compleet
