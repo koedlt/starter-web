@@ -20,4 +20,4 @@ en voilakes
 
 ### Copyright
 
-hehe
+hehe was nog ni compleet
