@@ -17,3 +17,7 @@ Noch ein bisschen tekst hoohohohoho
 ## How To Contribute
 
 en voilakes
+
+### Copyright
+
+hehe
