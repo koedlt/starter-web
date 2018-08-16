@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+Nog een beke text. voor rebasing hehe
+
 ## Introduction
 
 Deze is ninermol mijwin
