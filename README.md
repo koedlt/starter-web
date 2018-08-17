@@ -6,6 +6,8 @@ Nog een beke text. voor rebasing hehe
 
 Nog een meer changes from myFeature branch 
 
+Extra deconnaat after stash
+
 ## Introduction
 
 Deze is ninermol mijwin
